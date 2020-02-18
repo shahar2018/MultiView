@@ -5,3 +5,4 @@ project(MultiView)
 
 # add the executable
 add_executable(Server.cxx)
+add_executable(Main.cxx)
